@@ -5,7 +5,7 @@ Instalar dependencias
 npm install
 ```
 
-comandos
+Comandos
 ```
 node app crear -d "descrición de la tarea"
 ```
